@@ -1,5 +1,7 @@
 # os-assignment
 bankers algorithm
+
+
 Reena’s operating system uses an algorithm for deadlock avoidance to manage the allocation of resources say three namely A, B, and C to three processes P0, P1, and P2.
 
 Consider the following scenario as reference .user must enter the current state of the system as given in this example: Suppose P0 has 0,0,1 instances, P1 is having 3,2,0 instances and P2 occupies 2,1,1 instances of A, B, C resource respectively.
